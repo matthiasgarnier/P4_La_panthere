@@ -9,7 +9,7 @@ body {
 
 a,
 button {
-    transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;/**/
     outline: none!important;
 }
 
@@ -24,7 +24,7 @@ a:hover {
     bottom: 0;
     width: 100%;
     z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
+    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center; /**/
 }
 
 .bloc {
@@ -56,7 +56,7 @@ a:hover {
     padding: 20px 50px;
 }
 
-.bg-center,
+.bg-center,/**/
 .bg-l-edge,
 .bg-r-edge,
 .bg-t-edge,
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.png");/**/
     background-size: 280px 280px;
 }
 
@@ -107,7 +107,7 @@ a:hover {
     color: rgba(255, 255, 255, .9);
 }
 
-.d-bloc .icon-round,
+.d-bloc .icon-round,/**/
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
@@ -119,7 +119,7 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
-.d-bloc .a-btn,
+.d-bloc .a-btn,/**/
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
@@ -1039,4 +1039,8 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.footer__keywords {
+    color:#F3976C;
 }
