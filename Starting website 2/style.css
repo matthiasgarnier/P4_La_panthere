@@ -691,7 +691,7 @@ p {
 }
 
 .cta-hero {
-    margin-top: 22px;
+    margin: 22px 0 22px 0;
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
