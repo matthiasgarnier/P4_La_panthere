@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -1041,6 +1041,8 @@ h4 {
     }
 }
 
+/* form space */
+
 .form-group {
     margin-bottom: 7px;
 }
@@ -1048,3 +1050,5 @@ h4 {
 #message {
     margin-top: 10px;
 }
+
+/* form space end */
