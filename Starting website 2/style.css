@@ -1040,3 +1040,11 @@ h4 {
         text-align: center;
     }
 }
+
+.form-group {
+    margin-bottom: 7px;
+}
+
+#message {
+    margin-top: 10px;
+}
